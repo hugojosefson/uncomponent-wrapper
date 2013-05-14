@@ -1,9 +1,9 @@
 {
   "name": "uncomponent-wrapper",
   "repo": "hugojosefson/uncomponent-wrapper",
-  "description": "Wraps a non-component js file, so it can be kept as is, and be exported as a CommonJS module / component.",
+  "description": "Wraps a non-component js file, so it can be kept as is, and be exported as a CommonJS module / component. Quite useful for wrapping AngularJS modules.",
   "version": "0.0.3.snapshot",
-  "keywords": ["component", "commonjs", "module", "wrapper", "uncomponent", "noncomponent", "un-component", "non-component"],
+  "keywords": ["component", "commonjs", "angularjs", "angular", "module", "wrapper", "uncomponent", "noncomponent", "un-component", "non-component"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
