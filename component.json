@@ -2,14 +2,16 @@
   "name": "uncomponent-wrapper",
   "repo": "hugojosefson/uncomponent-wrapper",
   "description": "Wraps a non-component js file, so it can be kept as is, and be exported as a CommonJS module / component.",
-  "version": "0.0.1",
+  "version": "0.0.2.snapshot",
   "keywords": ["component", "commonjs", "module", "wrapper", "uncomponent", "noncomponent", "un-component", "non-component"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
-    "index.js",
+    "index.js"
+  ],
+  "files": [
     "bin/uncomponent-wrapper",
     "src/template-start.js",
     "src/template-end.js"
